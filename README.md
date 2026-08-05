@@ -6,7 +6,11 @@
 Watch the deployment video first to understand how the system works.
 
 **Deployment Video:**
-*👉 Add your video link here*
+*👉 
+
+https://github.com/user-attachments/assets/f7439433-ebfb-44f7-95af-2136f56353d0
+
+
 
 ---
 
