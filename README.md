@@ -99,10 +99,8 @@ The following preprocessing steps were applied before training:
 ## 📁 Project Structure
 
 ```text
-├── Dataset/
-├── Models/
-├── Notebook/
-├── Deployment/
+├── Dataset.xlsx
+├── Crime.ipynb
 ├── README.md
 └── requirements.txt
 ```
